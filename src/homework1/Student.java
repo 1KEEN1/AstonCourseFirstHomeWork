@@ -1,4 +1,4 @@
-package HomeWork_1;
+package homework1;
 
 public final class Student {
     private final String name;

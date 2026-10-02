@@ -1,4 +1,4 @@
-package HomeWork_1;
+package homework1;
 
 public class Country {
     private String country;
